@@ -146,7 +146,7 @@
 }
 
 .p1_cont{
-    background-image: url(images/grey-pattern.png);
+    background-image: url(grey-pattern.png);
     width: 35%;
     height: fit-content;
     position: relative;
@@ -176,7 +176,7 @@
 }
 
 .p2_cont{
-    background-image: url(images/grey-pattern.png);
+    background-image: url(grey-pattern.png);
     height: fit-content;
     position: relative;
     width: auto;
@@ -247,7 +247,7 @@
 }
 
 .bot{
-    background-image: url(images/contact-overlay.png);
+    background-image: url(contact-overlay.png);
     display: flex;
     background-color: rgb(162, 75, 245);
     height: fit-content;
