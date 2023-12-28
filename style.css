@@ -44,7 +44,7 @@
 
 .rocket{
     display: block;
-    background: linear-gradient(rgba(0, 0, 0, 0.6)0%,rgba(0,0,0,0.8)100%),url(images/rocket.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.6)0%,rgba(0,0,0,0.8)100%),url(rocket.jpg);
     background-size: cover; 
     background-repeat: no-repeat; 
     height: 700px; 
