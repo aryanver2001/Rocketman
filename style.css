@@ -70,7 +70,7 @@
 
 .rocket {
     display: block;
-    background: linear-gradient(rgba(0, 0, 0, 0.6)0%, rgba(0, 0, 0, 0.8)100%), url(images/rocket.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.6)0%, rgba(0, 0, 0, 0.8)100%), url(rocket.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     height: 700px;
@@ -183,7 +183,7 @@
 }
 
 .p1_cont {
-    background-image: url(images/grey-pattern.png);
+    background-image: url(grey-pattern.png);
     width: auto;
     height: 190px;
     position: relative;
@@ -214,7 +214,7 @@
 }
 
 .p2_cont {
-    background-image: url(images/grey-pattern.png);
+    background-image: url(grey-pattern.png);
     height: 200px;
     position: relative;
     width: auto;
@@ -292,7 +292,7 @@
 }
 
 .bot {
-    background-image: url(images/contact-overlay.png);
+    background-image: url(contact-overlay.png);
     display: flex;
     background-color: rgb(162, 75, 245);
     height: fit-content;
