@@ -1,0 +1,154 @@
+@media only screen and  (max-width: 1250px){
+
+
+    .burger{
+        display: block;
+    }
+    .nav-list{
+        flex-direction: column;
+    }
+
+    .nav-resp{
+        justify-content: center;
+        height: 100vh;
+    }
+
+    .nav_service{
+        padding: 100px;
+        display: flex;
+        font-size: 30px;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .hide{
+        display: none;
+    }
+    .v-class-resp{
+        opacity: 0;
+    }
+
+    .rocket{
+        height: 500px;
+    }
+
+    .content{
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: center;
+        padding: 200px 35px;
+    }
+
+    .lead{
+        font-size: 20px;
+    }
+
+    .big-text{
+        font-size: 30px;
+    }
+
+    .star{
+        font-size: 10px;
+        padding: 20px;
+    }
+    .cards-holder{
+        flex-direction: column;
+    }
+
+    .cards{
+        margin: 10px 0px;
+    }
+
+    .card-img-resp img{
+        height: 200px;
+        width: 300px;
+    }
+
+    .tab_cont{
+        font-size: 15px;
+    }
+    .tab_cont2{
+        font-size: 12px;
+    }
+    .tab_l3{
+        font-size: 12px;
+    }
+
+    .p1{
+        padding: 15px 30px
+    }
+
+    .mid-img img{
+        height: 200px;
+        width: 250px;
+    }
+
+    .p1_cont, .p2_cont{
+        display: none;
+        /* right: 70px;
+        top: 200px;
+        height: 120px; */
+    }
+
+    .p1_contl1{
+        font-size: 20px;
+    }
+    
+    .p1_contl2{
+        font-size: 15px;
+    }
+
+    .btn{
+        padding: 5px;
+        font-size: 8px;
+    }
+
+    .p2_cont{
+        height: 140px;
+        left: 40px;
+        top: 180px;
+    }
+
+    .p3_cont{
+        width: 320px;
+    }
+
+    .bot_cont{
+        padding: 20px;
+        font-size: 10px;
+    }
+
+    .quote{
+        padding: 20px 5px;
+    }
+
+    .quote_contl1{
+        font-size: 15px;
+    }
+
+    .quote_contl2{
+        font-size: 10px;
+    }
+
+    .bot{
+        flex-direction: column;
+        padding: 20px 0px;
+    }
+
+    .bot_cl1{
+        font-size: 14px;
+    }
+
+    .bot_cl2{
+        font-size: 10px;
+        display: contents;
+    }
+
+    .lbot{
+        display: none;
+    }
+
+
+
+}

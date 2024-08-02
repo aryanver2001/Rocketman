@@ -1,0 +1,7 @@
+{
+    "workbench.activityBar.iconClickBehavior": "toggle",
+    "workbench.activityBar.location": "default",
+    "workbench.editor.decorations.colors": true,
+    "workbench.sideBar.location": "left",
+    "workbench.statusBar.visible": true
+}
